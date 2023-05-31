@@ -7,3 +7,6 @@
 # package lock files
 package-lock.json
 yarn.lock
+
+# jest coverage
+/coverage
